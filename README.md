@@ -29,7 +29,7 @@ hr-attrition-analysis/
 └── README.md                    # Project documentation
 
 ## Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](Screenshot2026-03-17113005.png)
 
 ## Model Performance
 | Metric | Score |
